@@ -1,0 +1,43 @@
+.body_background {
+  background-image: url("https://cdn.dribbble.com/users/1770290/screenshots/6164788/bg_76.gif");
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  color: blue;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serifs;
+  font-size: 40px;
+}
+
+#myCanvas {
+  border-width: 10px;
+  background-color: rgba(224, 225, 231, 0.4);
+  -webkit-backdrop-filter: blur(50px);
+  backdrop-filter: blur(50px);
+  border-radius: 20px;
+  border:ridge;
+}
+
+span {
+  font-size: 25px;
+  color: white;
+}
+
+#color{
+  height: 25px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+.btn{
+  height: 35px;
+  font-size: 20px;
+  background-color: rgba(154, 164, 218, 0.4);
+  -webkit-backdrop-filter: blur(50px);
+  backdrop-filter: blur(50px);
+  border-radius: 10px;
+  width: 100px;
+  color: white;
+}
